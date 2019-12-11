@@ -1,0 +1,9 @@
+requests
+lxml
+roman
+num2words
+nltk
+language_check
+spacy
+pypandoc
+langid
