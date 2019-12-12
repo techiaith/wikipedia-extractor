@@ -7,7 +7,7 @@ I'w defnyddio..
   $ make
   $ make run
   
-  $ python3 WikiExtractor.py --user Llywelyn2000 cy /data
+  $ python3 WikiExtractor.py --user <enw defnyddiwr> cy /data
   
 ```
 
