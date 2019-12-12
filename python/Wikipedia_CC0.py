@@ -264,9 +264,6 @@ def get_user_list(lang, template_name):
     The "lang" parameter specifies the Wikipedia version, e.g. "en".
     The "template name" specifies the template name, e.g. "Template:CC0"
     """
-    #user_list = ['Llywelyn2000']
-    #return user_list
-  
     url = "https://{lang}.wikipedia.org/w/api.php".format(lang=lang) 
     print (url)
     user_list = []
