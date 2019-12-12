@@ -1,4 +1,4 @@
-# Crafwr Brawddegau CC-0 o Wikipedia
+# Echdynnu Brawddegau CC-0 o Wikipedia
 
 I'w defnyddio..
 
